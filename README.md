@@ -1,4 +1,6 @@
-# Assignments and Projects from the Master 2 MAthématiques, Vision, Apprentissage (MVA) at ENS Paris-Saclay
+# Assignments and Projects from the Master 2 Mathématiques, Vision, Apprentissage (MVA) at ENS Paris-Saclay
+
+Some courses are not yet here.
 
 ### First Semester 
 
