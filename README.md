@@ -17,6 +17,7 @@ Some courses are not yet here.
 * **Project**: Neural Graph Generation with conditioning ([kaggle challenge](https://www.kaggle.com/competitions/generating-graphs-with-specified-properties/overview))
 
 Librairies used: PyTorch, transformers, networkx, torch_geometric, grakel, scipy, scikit-learn
+Use of Huggingface 
 
 **Geometry processing and geometric deep learning (Geometry)** by E. Corman, J. Digne and M. Ovsjanikov:\
 [Course page](https://jdigne.github.io/mva_geom/)
@@ -29,6 +30,14 @@ Librairies used: PyTorch, transformers, networkx, torch_geometric, grakel, scipy
 
 Librairies used: PyTorch, meshplot, scipy
 
+**Introduction to Probabilistic Graphical Models and Deep Generative Models (PGM)** by P. Latouche and P-A. Mattei:\
+[Course page](https://lmbp.uca.fr/~latouche/mva/IntroductiontoProbabilisticGraphicalModelsMVA.html)
+
+* **Project**: Denoising score matching for diffusion models 
+
+Librairies used: PyTorch
+Use of Huggingface 
+
 **Robotics** by S. Caron, J. Carpentier, S. Bonnabel, P.B. Wieber:\
 [Course page](https://scaron.info/robotics-mva/)\
 [Github for assignements](https://github.com/AjSat/2024_mva_robotics_exercises)
@@ -37,7 +46,7 @@ Librairies used: PyTorch, meshplot, scipy
 * Lab 3: Inverse kinematics
 * Lab 4: Robot control systems
 * Lab 5: Reinforcement learning
-* Lab 6:
+* Lab 6: 
 
 
 * **Project**: Study of the ["Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy"](https://www.di.ens.fr/willow/research/gembench/) article. See both forked repository ([robot-3dlotus](https://github.com/martinjolif/robot-3dlotus/tree/main) / [RLBench](https://github.com/martinjolif/RLBench)) or this [tutorial](https://github.com/martinjolif/robot-3dlotus/blob/main/create_evaluate_new_task.md) to understand more about it and the work done.
