@@ -33,7 +33,8 @@ Librairies used: PyTorch, meshplot, scipy.
 **Introduction to Probabilistic Graphical Models and Deep Generative Models (PGM)** by P. Latouche and P-A. Mattei:\
 [Course page](https://lmbp.uca.fr/~latouche/mva/IntroductiontoProbabilisticGraphicalModelsMVA.html)
 
-* **Project**: Denoising score matching for diffusion models 
+* **Project**: Denoising score matching for diffusion models. Study of the ["Denoising Diffusion Probabilistic Models
+"](https://arxiv.org/pdf/2006.11239) paper.
 
 Librairies used: PyTorch.\
 Use of Huggingface.
@@ -60,3 +61,10 @@ Librairies used: gymnasium, scikit-learn, PyTorch, Numpy.
 
 Librairies used: pinocchio, gymnasium.
 
+**Machine learning for Time Series** by L. Oudre: \
+[Course page](https://www.laurentoudre.fr/ast.html)
+* Lab 1: Convolutional Dictionary Learning (CDL), Spectral feature and Dynamic Time Warping (DTW)
+* Lab 2: ARIMA Process, Sparse Coding
+* Lab 3: Change-Point Detection, Wavelet Transform for Graph Signals
+
+Librairies used: scikit-learn, scipy, ruptures, pandas.
