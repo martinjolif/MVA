@@ -39,7 +39,7 @@ Librairies used: PyTorch, meshplot, scipy.
 Librairies used: PyTorch.\
 Use of Huggingface.
 
-**Reinforcement Learning** by E. Rachelson and C. Vernade:\
+**Reinforcement Learning (RL)** by E. Rachelson and C. Vernade:\
 [Course page](https://erachelson.github.io/RLclass_MVA/)
 
 * **Project**: The goal is to goal is to design a control strategy which keeps the patient healthy while avoiding prescribing drugs at every time step. See this [repository](https://github.com/RL-MVA-2024-25/mva-rl-assignment-martinjolif) for more details.
