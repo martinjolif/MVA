@@ -12,8 +12,6 @@ Some courses are not yet here.
 * Lab 5: Deep Walk & Graph Neural Network (GNN) for node classification
 * Lab 6: Graph Attention Network (GAT) & GNN for graph and node classification
 * Lab 7: DeepSets & Graph generation with Variational Graph Autoencoders
-
-
 * **Project**: Neural Graph Generation with conditioning ([kaggle challenge](https://www.kaggle.com/competitions/generating-graphs-with-specified-properties/overview))
 
 Librairies used: PyTorch, transformers, networkx, torch_geometric, grakel, scipy, scikit-learn.\
@@ -24,8 +22,6 @@ Use of Huggingface.
 * Lab 2: Surface parametrisation and alignement 
 * Lab 4: Implementation of PointNet for 3D shape classification and segmentation
 * Lab 6: Shape reconstruction and interpolation
-
-
 * **Project**: Study of the ["Single Mesh Diffusion Models with Field Latents for Texture Generation"](https://single-mesh-diffusion.github.io/) article.
 
 Librairies used: PyTorch, meshplot, scipy.
@@ -55,8 +51,6 @@ Librairies used: gymnasium, scikit-learn, PyTorch, Numpy.
 * Lab 4: Robot control systems
 * Lab 5: Reinforcement learning
 * Lab 6: Contact simulation
-
-
 * **Project**: Study of the ["Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy"](https://www.di.ens.fr/willow/research/gembench/) article. See both forked repository ([robot-3dlotus](https://github.com/martinjolif/robot-3dlotus/tree/main) / [RLBench](https://github.com/martinjolif/RLBench)) or this [tutorial](https://github.com/martinjolif/robot-3dlotus/blob/main/create_evaluate_new_task.md) to understand more about it and the work done.
 
 Librairies used: pinocchio, gymnasium.
@@ -68,3 +62,17 @@ Librairies used: pinocchio, gymnasium.
 * Lab 3: Change-Point Detection, Wavelet Transform for Graph Signals
 
 Librairies used: scikit-learn, scipy, ruptures, pandas.
+
+### Second Semester 
+
+**3D Point Cloud and Modeling** by F. Goulette, J-E. Deschaud, T. Boubekeur:\
+[Course page](https://www.caor.minesparis.psl.eu/presentation/cours-npm3d/)
+* Lab 1: Basic operations and structures on point clouds
+* Lab 2: Iterative Closest Point (ICP)
+* Lab 3: Neighborhood descriptors
+* Lab 4: Surface reconstruction
+* Lab 5: Modeling (RANSAC algorithm)
+* Lab 6: Deep learning (PointNet)
+
+Librairies used: Numpy, scikit-learn, PyTorch. \
+Use of CloudCompare.
