@@ -60,12 +60,27 @@ Librairies used: pinocchio, gymnasium.
 * Lab 1: Convolutional Dictionary Learning (CDL), Spectral feature and Dynamic Time Warping (DTW)
 * Lab 2: ARIMA Process, Sparse Coding
 * Lab 3: Change-Point Detection, Wavelet Transform for Graph Signals
+* **Project**: Unsupervised feature learning for time-series modeling.
 
 Librairies used: scikit-learn, scipy, ruptures, pandas.
 
 ### Second Semester 
 
-**3D Point Cloud and Modeling** by F. Goulette, J-E. Deschaud, T. Boubekeur:\
+**Generative Modeling** by B. Galerne and A. Leclaire:\
+[Course page](https://generativemodelingmva.github.io/)
+* Assignement: GAN, WGAN and VAE for image generation.
+* **Project**: Solving imaging inverse problems like deblurring, inpainting and super-resolution from [PnP-SGS](https://arxiv.org/pdf/2304.11134) algorithm using [DDPM](https://arxiv.org/pdf/2006.11239).
+
+Librairies used: PyTorch, scikit-image, Pillow.
+
+**Graphs in Machine Learning** by D. Calandriello:
+* Lab 1: Spectral Clustering
+* Lab 2: Semi Supervised Learning
+* Lab 3: Graph Neural Networks (GNNs)
+
+Librairies used: scikit-learn, networkx, jax, scipy.
+
+**3D Point Cloud and Modeling (NPM3D)** by F. Goulette, J-E. Deschaud, T. Boubekeur:\
 [Course page](https://www.caor.minesparis.psl.eu/presentation/cours-npm3d/)
 * Lab 1: Basic operations and structures on point clouds
 * Lab 2: Iterative Closest Point (ICP)
@@ -73,6 +88,21 @@ Librairies used: scikit-learn, scipy, ruptures, pandas.
 * Lab 4: Surface reconstruction
 * Lab 5: Modeling (RANSAC algorithm)
 * Lab 6: Deep learning (PointNet)
+* **Project**: 3D point cloud semantic segmentation with [SPT](https://arxiv.org/pdf/2306.08045) model.
 
 Librairies used: Numpy, scikit-learn, PyTorch. \
 Use of CloudCompare.
+
+**Representation Learning for Computer Vision** by P. Gori and L. Le Folgoc:\
+[Course page](https://perso.telecom-paristech.fr/pgori/teaching/RepLearnMVA.html)
+
+* Lab 1: Adversarial examples - blind spot in representation spaces
+* Lab 2: Domain adaptation
+* Lab 3: Self-supervised learning
+* Lab 4: Contrastive-learning pre-training
+* Lab 5: Vision Transformers (ViT)
+* Lab 6: Masked-Auto-Encoder - Self-Supervised Training of ViT
+* Lab 7: Masked Generative Image Transformer (MaskGIT) autoencoder
+* Lab 8: Interpretability and Explainability on MedMNIST
+
+Librairies used: PyTorch, scikit-image, scikit-learn, einops, Pillow.
